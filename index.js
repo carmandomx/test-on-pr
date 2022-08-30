@@ -1,6 +1,10 @@
+// Do not change the function name
+
 const cToF = (c) => {
-    let f = c * 9/5 + 32;
-    return f;
+    // Only make changes below this comment
+
+
+    // Only make changes above this comment
 }
 
 module.exports.cToF = cToF;
